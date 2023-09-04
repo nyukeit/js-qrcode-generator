@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "Generate a QR code for a URL input!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nyukeit",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  }
+}
